@@ -1,0 +1,3 @@
+__pycache__/
+models/random_forest_model.joblib
+venv/
